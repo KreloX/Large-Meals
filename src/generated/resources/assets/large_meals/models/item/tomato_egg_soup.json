@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "large_meals:item/tomato_egg_soup"
+  }
+}

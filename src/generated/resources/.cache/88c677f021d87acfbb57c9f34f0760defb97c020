@@ -1,0 +1,4 @@
+// 1.21.1	2026-03-06T20:44:58.9817705	Global Loot Modifiers : large_meals
+d567ca28aee128e2d4359e967543411733c9ccd1 data/large_meals/loot_modifiers/scavenging_cooked_mutton_rack_from_sheep.json
+765bd532ae39331535da417ad3ef55efb505ed3e data/large_meals/loot_modifiers/scavenging_raw_mutton_rack_from_sheep.json
+aea51584f53d7d9a3e7e223048f37c55c432f22c data/neoforge/loot_modifiers/global_loot_modifiers.json

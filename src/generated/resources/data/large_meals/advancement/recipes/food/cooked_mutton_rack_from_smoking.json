@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_mutton_rack": {
+      "conditions": {
+        "items": [
+          {
+            "items": "large_meals:raw_mutton_rack"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "large_meals:cooked_mutton_rack_from_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_mutton_rack"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "large_meals:cooked_mutton_rack_from_smoking"
+    ]
+  }
+}

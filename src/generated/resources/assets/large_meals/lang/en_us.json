@@ -1,0 +1,23 @@
+{
+  "block.large_meals.mushroom_pot_pie_block": "Mushroom Pot Pie",
+  "block.large_meals.omurice_block": "Omurice",
+  "block.large_meals.roasted_mutton_rack_block": "Roasted Rack of Mutton",
+  "item.large_meals.chicken_curry": "Chicken Curry",
+  "item.large_meals.cod_deluxe": "Cod Deluxe",
+  "item.large_meals.cooked_mutton_rack": "Cooked Rack of Mutton",
+  "item.large_meals.hearty_lunch": "Hearty Lunch",
+  "item.large_meals.mushroom_pot_pie": "Plate of Mushroom Pot Pie",
+  "item.large_meals.omurice": "Bowl of Omurice",
+  "item.large_meals.pasta_with_mushroom_sauce": "Pasta with Mushroom Sauce",
+  "item.large_meals.potato_soup": "Potato Soup",
+  "item.large_meals.pufferfish_broth": "Pufferfish Broth",
+  "item.large_meals.raw_mutton_rack": "Raw Rack of Mutton",
+  "item.large_meals.red_soup": "Red Soup",
+  "item.large_meals.rice_pudding": "Rice Pudding",
+  "item.large_meals.roasted_mutton_rack": "Plate of Roasted Rack of Mutton",
+  "item.large_meals.sweet_berry_custard": "Sweet Berry Custard",
+  "item.large_meals.tomato_egg_soup": "Tomato Egg Soup",
+  "large_meals.advancement.get_mutton_rack": "Sheep Butcher",
+  "large_meals.advancement.get_mutton_rack.desc": "Use a Knife to extract Rack from Sheep",
+  "pack.large_meals.mod.description": "Large Meals resources"
+}
