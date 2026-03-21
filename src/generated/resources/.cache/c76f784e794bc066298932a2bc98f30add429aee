@@ -1,2 +1,7 @@
-// 1.21.1	2026-03-06T19:50:18.9950925	Tags for minecraft:item mod id large_meals
+// 1.21.1	2026-03-21T12:45:36.060147	Tags for minecraft:item mod id large_meals
 74c663020011ff4c5abb4c130146e5400bce0da7 data/c/tags/item/foods/edible_when_placed.json
+de8faf355f6ae26d500ab07ce7a6ff396acb566a data/c/tags/item/foods/pie.json
+76c63c7f941a8471134fb8760e5c247ffc604a59 data/c/tags/item/foods/soup.json
+74c663020011ff4c5abb4c130146e5400bce0da7 data/farmersdelight/tags/item/feasts.json
+1a37c53455ec30422d1960949a168ed54c2f8dbc data/farmersdelight/tags/item/meals.json
+a32e2d4157515a5dcb941358486ca3d7d4b2ff96 data/farmersdelight/tags/item/sweets.json
